@@ -5,14 +5,14 @@ POLAR (Prototype-Oriented Local Adaptive Representation) is a revolutionary grad
 
 # ✨ Key Features
 
-## 🚫 No Backpropagation: Complete elimination of gradient computation
+🚫 No Backpropagation: Complete elimination of gradient computation
 
-## 🎯 Prototype-Driven: Uses class prototypes (mean representations) as local targets
+🎯 Prototype-Driven: Uses class prototypes (mean representations) as local targets
 
-## ⚡ Fast Convergence: Achieves 97%+ accuracy on MNIST in under 50 epochs
+⚡ Fast Convergence: Achieves 97%+ accuracy on MNIST in under 50 epochs
 
-## 🔧 Adaptive Stabilization: Built-in confidence gating and adaptive loss scaling
+🔧 Adaptive Stabilization: Built-in confidence gating and adaptive loss scaling
 
-## 📊 Versatile: Works for both classification and regression tasks
+📊 Versatile: Works for both classification and regression tasks
 
-## 🧠 Interpretable: Clear learning mechanism without complex gradient flows
+🧠 Interpretable: Clear learning mechanism without complex gradient flows
